@@ -18,9 +18,9 @@ public class 영수증_25304 {
 			total += price*num;
 			}
 		if(total == totalprice) {
-				System.out.println("yes");
+				System.out.println("Yes");
 			}else {
-				System.out.println("no");
+				System.out.println("No");
 			}
 	sc.close();
 	}
