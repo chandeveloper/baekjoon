@@ -22,5 +22,6 @@ public class 시험성적_9498 {
 	}else {
 		System.out.println("F");
 	}
+	sc.close();
 }
 }

@@ -26,6 +26,6 @@ public class 알람시계_2884 {
 			}
 			
 		}
-		
+		sc.close();
 	}
 }

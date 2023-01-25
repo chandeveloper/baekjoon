@@ -17,6 +17,6 @@ public class 두수비교하기_1330 {
 		}else if (a == b) {
 			System.out.println("==");
 		}
-		
+		sc.close();
 	}
 }

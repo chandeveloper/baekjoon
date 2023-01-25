@@ -19,5 +19,6 @@ public class 오븐시계_2525 {
 		int minute = min % 60;
 		
 		System.out.println(hour + " " + minute);
+		sc.close();
 	}
 }
